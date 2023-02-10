@@ -2,6 +2,9 @@
   "name": "NextJS-AVALIATION",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "repository": "https://github.com/MaxSyos/NextJS-AVALIATION.git",
   "author": "André Abreu de Sá <andre.abreu.ufmg@gmail.com>",
   "license": "MIT",
