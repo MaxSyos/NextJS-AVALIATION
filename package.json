@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/MaxSyos/NextJS-AVALIATION.git",
   "author": "André Abreu de Sá <andre.abreu.ufmg@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.5.1"
+  }
 }
