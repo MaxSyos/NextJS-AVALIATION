@@ -6,7 +6,7 @@
     "test": "jest --passWithNoTests",
     "test:watch": "yarn test -- --watch",
     "test:staged": "yarn test -- --findRelatedTests",
-    "test:ci": "yarn test -- --covarege"
+    "test:ci": "yarn test -- --coverage"
   },
   "repository": "https://github.com/MaxSyos/NextJS-AVALIATION.git",
   "author": "André Abreu de Sá <andre.abreu.ufmg@gmail.com>",
